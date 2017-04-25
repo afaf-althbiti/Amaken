@@ -34,4 +34,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/coler_11</item>
+        <item name="colorPrimaryDark">@color/coler_12</item>
+        <item name="colorAccent">@color/coler_13</item>
+    </style>
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/coler_21</item>
+    <item name="colorPrimaryDark">@color/coler_22</item>
+    <item name="colorAccent">@color/coler_23</item>
+</style>
 </resources>

@@ -14,5 +14,11 @@
     <color name="gray">#bebebe</color>
     <color name="white_pressed">#f1f1f1</color>
 
+    <color name="coler_11">#cc4444</color>
+    <color name="coler_12">#ccc344</color>
+    <color name="coler_13">#e1cece</color>
 
+    <color name="coler_21">#76cc44</color>
+    <color name="coler_22">#ff970f</color>
+    <color name="coler_23">#68b7ac</color>
 </resources>

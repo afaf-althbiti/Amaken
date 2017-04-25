@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference android:key="enable_settings"
+        android:title="Enable"/>
+
+
+    <ListPreference
+        android:title="Style"
+        android:key="theme"
+        android:positiveButtonText="@null"
+        android:entries="@array/style"
+        android:entryValues="@array/style"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+
+        />
+
+
+    <!--<ListPreference
+        android:title="Language"
+        android:key="language"
+        android:entries="@array/language"
+        android:entryValues="@array/language"
+        android:icon="@drawable/translate"
+
+        />-->
+
+
+</PreferenceScreen>

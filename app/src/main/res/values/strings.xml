@@ -38,7 +38,21 @@
         <item>0</item>
         <item>-1</item>
     </string-array>
+    <string-array name="style">
+        <item>Default setting</item>
+        <item>style 1</item>
+        <item>style 2</item>
 
+
+    </string-array>
+
+
+<string-array name="language">
+<item>English</item>
+<item>Arabic</item>
+
+
+</string-array>
     <!-- Example settings for Data & Sync -->
     <string name="pref_header_data_sync">Data &amp; sync</string>
 
